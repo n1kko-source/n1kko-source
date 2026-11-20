@@ -1,27 +1,25 @@
 <img src="assets/banner.svg" alt="Juan Nicolás Muñoz. Full-stack con React, NestJS y Python. Curioso por la IA y la neurociencia. De Tunja a Jaén, programando." width="100%" />
-Estudio Ingeniería de Sistemas en Tunja y ahora escribo código desde Jaén, España.  
-Hice un POS para un restaurante de verdad, un sistema de reservas y parte de un panel de monitoreo para un hospital. Todo está en mi portafolio.  
-También investigo sobre IA y neurociencia, y fundé UService. Busco prácticas o un puesto junior, presencial o en remoto.
+
+## Ingeniero de Sistemas en formación y desarrollador full-stack
+
+Estudio en la **Universidad Santo Tomás (Tunja)** y este semestre curso en la **Universidad de Jaén (España)**, dentro de un programa de movilidad académica.
+
+Desarrollo software a medida. Diseñé y entregué un sistema POS para un restaurante, construí un sistema de reservas full-stack y participé en un panel de monitoreo de infraestructura para el Hospital Universitario San Rafael de Tunja. Soy fundador de [USERVICE S.A.S.](https://www.userviceglobal.com/).
+
+Investigo en inteligencia artificial y neurociencia computacional; mi ponencia fue reconocida como la mejor del congreso CIIESGEDO 2026. También desarrollo **Essentius**, un proyecto propio relacionado con esa investigación en neurociencia.
+
+**Busco prácticas o un puesto junior en desarrollo de software, presencial o en remoto.**
+
 <p>
-  <a href="https://portfolio-n1kko.vercel.app/"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-C98A1B?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/juan-nicolas-mu%C3%B1oz-tavera-446a15316"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8A5A12?style=flat-square"></a>
-  <a href="https://orcid.org/0009-0000-4514-863X"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
+  <a href="https://portfolio-n1kko.vercel.app/"><img src="assets/btn-portafolio.svg" alt="Portafolio" height="40"></a>
+  <a href="https://www.linkedin.com/in/juan-nicolas-mu%C3%B1oz-tavera-446a15316"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
+  <a href="https://orcid.org/0009-0000-4514-863X"><img src="assets/btn-orcid.svg" alt="ORCID" height="40"></a>
 </p>
-Stack
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</p>
+
+### Tecnologías
+
+<img src="assets/stack.svg" alt="TypeScript, JavaScript, Python, React, React Native, Expo, Tailwind CSS, Bootstrap, HTML, CSS, Node.js, NestJS, PostgreSQL, MySQL, SQLite, Git y GitHub" width="100%" />
+
+### Essentius
+
+Proyecto propio relacionado con mi investigación en neurociencia. El código está en dos repositorios: uno de frontend y otro de backend.
