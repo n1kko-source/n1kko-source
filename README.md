@@ -1,7 +1,7 @@
 <img src="assets/banner.svg" alt="Juan Nicolás Muñoz. Full-stack con React, NestJS y Python. Curioso por la IA y la neurociencia. De Tunja a Jaén, programando." width="100%" />
-Estudio Ingeniería de Sistemas en Tunja y por ahora escribo código desde Jaén, España.  
+Estudio Ingeniería de Sistemas en Tunja y ahora escribo código desde Jaén, España.  
 Hice un POS para un restaurante de verdad, un sistema de reservas y parte de un panel de monitoreo para un hospital. Todo está en mi portafolio.  
-También investigo sobre IA y neurociencia, y fundé USERVICE. Busco prácticas o un puesto junior, presencial o en remoto.
+También investigo sobre IA y neurociencia, y fundé UService. Busco prácticas o un puesto junior, presencial o en remoto.
 <p>
   <a href="https://portfolio-n1kko.vercel.app/"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-C98A1B?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/juan-nicolas-mu%C3%B1oz-tavera-446a15316"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8A5A12?style=flat-square"></a>
